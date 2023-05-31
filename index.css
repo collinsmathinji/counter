@@ -1,0 +1,46 @@
+
+body {
+    background-image: url("Bg.jpg");
+    background-size: cover;
+    font-family: "fogaz",cursive;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    color: chartreuse;
+    background-image: radial-gradient(rgb(73, 127, 26),yellow);
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 60%;
+    margin-top: 2px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-family: "fogaz",cursive;
+    margin-top:0px;
+    width:25%;
+    display: flex;
+    place-content: center;
+    margin-left: 37%;
+    margin-right: 63%;
+   background-image: linear-gradient(rgb(27, 21, 21),gray);
+    color: chocolate;
+    font-size: 50px;
+}
+#increment-btn{
+    font-family: "fogaz",cursive;
+ background-color: rgb(2, 0, 5);
+ color: chocolate;
+}
+#saveE1{
+    font-family: "fogaz",cursive;
+    background-color: rgb(204, 255, 0);
+}
+#pass-el{
+    color: magenta;
+}
+.mot{
+    color:darkorange;
+}
